@@ -25,7 +25,7 @@ This C# console application retrieves detailed data type information for all col
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/MohmdAliMohmd/sql-column-type-retriever.git
+   git clone https://github.com/MohmdAliMohmd/SQL-Server-Column-Data-Type-Retriever
    cd sql-column-type-retriever
    ```
 
