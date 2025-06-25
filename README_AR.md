@@ -26,7 +26,7 @@
 
 1. استنسخ المستودع:
    ```bash
-   git clone https://github.com/MohmdAliMohmd/sql-column-type-retriever.git
+   git clone https://github.com/MohmdAliMohmd/SQL-Server-Column-Data-Type-Retriever
    cd sql-column-type-retriever
    ```
 
